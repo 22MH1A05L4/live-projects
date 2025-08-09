@@ -58,7 +58,7 @@ const testimonials: Testimonial[] = [
     name: "Alex Morgan",
     role: "Backend Developer",
     company: "DataFlow",
-    content: "The database management and API tools are incredible. We've reduced our development time by 60% since switching to Dimension.",
+            content: "The database management and API tools are incredible. We&apos;ve reduced our development time by 60% since switching to Dimension.",
     rating: 5,
     avatar: "AM"
   }
