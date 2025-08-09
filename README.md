@@ -52,3 +52,6 @@ npm run dev
 ## Deploy on Vercel:
 npm run build
 npm run start
+
+DEPLOYMENT URL:
+https://dimensional-landing-git-main-dhanushs-projects-45c3fd6e.vercel.app/
